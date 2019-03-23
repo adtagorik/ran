@@ -8,7 +8,6 @@
   aliases: 
 CMD*/
 
-
 switch (message) {
 case "/"+"10"+"1" :
 case "10"+"1" :
@@ -104,104 +103,6 @@ break;
 case "/"+"25"+"1" :
 case "25"+"1" :
 User.setProperty("citi", "Фестивальный", "text");
-User.setProperty("tov", "меф 1г", "text");
-User.setProperty("cena", "2300", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"10"+"36" :
-case "10"+"36" :
-User.setProperty("citi", "Кореновск", "text");
-User.setProperty("tov", "Мука 0,5", "text");
-User.setProperty("cena", "1300", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"11"+"36" :
-case "11"+"36" :
-User.setProperty("citi", "Кореновск", "text");
-User.setProperty("tov", "Крис 0,5", "text");
-User.setProperty("cena", "1400", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"12"+"36" :
-case "12"+"36" :
-User.setProperty("citi", "Кореновск", "text");
-User.setProperty("tov", "Чай 5г", "text");
-User.setProperty("cena", "2000", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"13"+"36" :
-case "13"+"36" :
-User.setProperty("citi", "Кореновск", "text");
-User.setProperty("tov", "чай 3г", "text");
-User.setProperty("cena", "1500", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"14"+"36" :
-case "14"+"36" :
-User.setProperty("citi", "Кореновск", "text");
-User.setProperty("tov", "мука 1г", "text");
-User.setProperty("cena", "2200", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"15"+"36" :
-case "15"+"36" :
-User.setProperty("citi", "Кореновск", "text");
-User.setProperty("tov", "крис 1г", "text");
-User.setProperty("cena", "2300", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"16"+"36" :
-case "16"+"36" :
-User.setProperty("citi", "Кореновск", "text");
-User.setProperty("tov", "Меф 0,5г", "text");
-User.setProperty("cena", "1500", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"18"+"36" :
-case "18"+"36" :
-User.setProperty("citi", "Кореновск", "text");
-User.setProperty("tov", "мука 2г", "text");
-User.setProperty("cena", "4000", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"19"+"36" :
-case "19"+"36" :
-User.setProperty("citi", "Кореновск", "text");
-User.setProperty("tov", "Чай 10г", "text");
-User.setProperty("cena", "3000", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"20"+"36" :
-case "20"+"36" :
-User.setProperty("citi", "Кореновск", "text");
-User.setProperty("tov", "Мука 0,75", "text");
-User.setProperty("cena", "1800", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"21"+"36" :
-case "21"+"36" :
-User.setProperty("citi", "Кореновск", "text");
-User.setProperty("tov", "Крис 0,75", "text");
-User.setProperty("cena", "1900", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"23"+"36" :
-case "23"+"36" :
-User.setProperty("citi", "Кореновск", "text");
-User.setProperty("tov", "ТВ 3г", "text");
-User.setProperty("cena", "1300", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"24"+"36" :
-case "24"+"36" :
-User.setProperty("citi", "Кореновск", "text");
-User.setProperty("tov", "ТВ 2г", "text");
-User.setProperty("cena", "1000", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"25"+"36" :
-case "25"+"36" :
-User.setProperty("citi", "Кореновск", "text");
 User.setProperty("tov", "меф 1г", "text");
 User.setProperty("cena", "2300", "text");
 Bot.runCommand("vbr");
@@ -3244,6 +3145,202 @@ User.setProperty("tov", "меф 1г", "text");
 User.setProperty("cena", "2300", "text");
 Bot.runCommand("vbr");
 break; 
+case "/"+"10"+"46" :
+case "10"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "Мука 0,5", "text");
+User.setProperty("cena", "1300", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"11"+"46" :
+case "11"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "Крис 0,5", "text");
+User.setProperty("cena", "1400", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"12"+"46" :
+case "12"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "Чай 5г", "text");
+User.setProperty("cena", "2000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"13"+"46" :
+case "13"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "чай 3г", "text");
+User.setProperty("cena", "1500", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"14"+"46" :
+case "14"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "мука 1г", "text");
+User.setProperty("cena", "2200", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"15"+"46" :
+case "15"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "крис 1г", "text");
+User.setProperty("cena", "2300", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"16"+"46" :
+case "16"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "Меф 0,5г", "text");
+User.setProperty("cena", "1500", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"18"+"46" :
+case "18"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "мука 2г", "text");
+User.setProperty("cena", "4000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"19"+"46" :
+case "19"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "Чай 10г", "text");
+User.setProperty("cena", "3000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"20"+"46" :
+case "20"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "Мука 0,75", "text");
+User.setProperty("cena", "1800", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"21"+"46" :
+case "21"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "Крис 0,75", "text");
+User.setProperty("cena", "1900", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"23"+"46" :
+case "23"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "ТВ 3г", "text");
+User.setProperty("cena", "1300", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"24"+"46" :
+case "24"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "ТВ 2г", "text");
+User.setProperty("cena", "1000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"25"+"46" :
+case "25"+"46" :
+User.setProperty("citi", "ЗАветный Армавир", "text");
+User.setProperty("tov", "меф 1г", "text");
+User.setProperty("cena", "2300", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"10"+"48" :
+case "10"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "Мука 0,5", "text");
+User.setProperty("cena", "1300", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"11"+"48" :
+case "11"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "Крис 0,5", "text");
+User.setProperty("cena", "1400", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"12"+"48" :
+case "12"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "Чай 5г", "text");
+User.setProperty("cena", "2000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"13"+"48" :
+case "13"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "чай 3г", "text");
+User.setProperty("cena", "1500", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"14"+"48" :
+case "14"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "мука 1г", "text");
+User.setProperty("cena", "2200", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"15"+"48" :
+case "15"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "крис 1г", "text");
+User.setProperty("cena", "2300", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"16"+"48" :
+case "16"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "Меф 0,5г", "text");
+User.setProperty("cena", "1500", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"18"+"48" :
+case "18"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "мука 2г", "text");
+User.setProperty("cena", "4000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"19"+"48" :
+case "19"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "Чай 10г", "text");
+User.setProperty("cena", "3000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"20"+"48" :
+case "20"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "Мука 0,75", "text");
+User.setProperty("cena", "1800", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"21"+"48" :
+case "21"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "Крис 0,75", "text");
+User.setProperty("cena", "1900", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"23"+"48" :
+case "23"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "ТВ 3г", "text");
+User.setProperty("cena", "1300", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"24"+"48" :
+case "24"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "ТВ 2г", "text");
+User.setProperty("cena", "1000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"25"+"48" :
+case "25"+"48" :
+User.setProperty("citi", "Красная поляна АРМАВИР", "text");
+User.setProperty("tov", "меф 1г", "text");
+User.setProperty("cena", "2300", "text");
+Bot.runCommand("vbr");
+break; 
 case "/"+"10"+"51" :
 case "10"+"51" :
 User.setProperty("citi", "Холмская", "text");
@@ -4518,113 +4615,16 @@ User.setProperty("tov", "меф 1г", "text");
 User.setProperty("cena", "2300", "text");
 Bot.runCommand("vbr");
 break;  
-case "/"+"10"+"42" :
-case "10"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "Мука 0,5", "text");
-User.setProperty("cena", "1300", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"11"+"42" :
-case "11"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "Крис 0,5", "text");
-User.setProperty("cena", "1400", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"12"+"42" :
-case "12"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "Чай 5г", "text");
-User.setProperty("cena", "2000", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"13"+"42" :
-case "13"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "чай 3г", "text");
-User.setProperty("cena", "1500", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"14"+"42" :
-case "14"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "мука 1г", "text");
-User.setProperty("cena", "2200", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"15"+"42" :
-case "15"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "крис 1г", "text");
-User.setProperty("cena", "2300", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"16"+"42" :
-case "16"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "Меф 0,5г", "text");
-User.setProperty("cena", "1500", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"18"+"42" :
-case "18"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "мука 2г", "text");
-User.setProperty("cena", "4000", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"19"+"42" :
-case "19"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "Чай 10г", "text");
-User.setProperty("cena", "3000", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"20"+"42" :
-case "20"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "Мука 0,75", "text");
-User.setProperty("cena", "1800", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"21"+"42" :
-case "21"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "Крис 0,75", "text");
-User.setProperty("cena", "1900", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"23"+"42" :
-case "23"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "ТВ 3г", "text");
-User.setProperty("cena", "1300", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"24"+"42" :
-case "24"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "ТВ 2г", "text");
-User.setProperty("cena", "1000", "text");
-Bot.runCommand("vbr");
-break; 
-case "/"+"25"+"42" :
-case "25"+"42" :
-User.setProperty("citi", "Пластуновская", "text");
-User.setProperty("tov", "меф 1г", "text");
-User.setProperty("cena", "2300", "text");
-Bot.runCommand("vbr");
-break
 case "прайс" :
 Bot.runCommand("/33");
+break;
+break; 
+case "⬅⬅ Назaд" :
+Bot.runCommand("/start");
 break;
 default :
 Bot.runCommand("/33");
 break; 
-case "⬅⬅ Назад" :
-Bot.runCommand("/start");
-break; 
 case "Ⓜ Главное меню" :
-Bot.runCommand("/start");    
+Bot.runCommand("/start");
 break; }
