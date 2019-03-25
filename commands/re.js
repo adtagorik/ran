@@ -5986,6 +5986,202 @@ User.setProperty("citi", "ЛАбинск", "text");
 User.setProperty("tov", "меф 1г", "text");
 User.setProperty("cena", "2300", "text");
 Bot.runCommand("vbr");
+break; 
+case "/"+"10"+"77" :
+case "10"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Мука 0,5", "text");
+User.setProperty("cena", "1300", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"11"+"77" :
+case "11"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Крис 0,5", "text");
+User.setProperty("cena", "1400", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"12"+"77" :
+case "12"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Чай 5г", "text");
+User.setProperty("cena", "2000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"13"+"77" :
+case "13"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "чай 3г", "text");
+User.setProperty("cena", "1500", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"14"+"77" :
+case "14"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "мука 1г", "text");
+User.setProperty("cena", "2200", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"15"+"77" :
+case "15"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "крис 1г", "text");
+User.setProperty("cena", "2300", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"16"+"77" :
+case "16"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Меф 0,5г", "text");
+User.setProperty("cena", "1500", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"18"+"77" :
+case "18"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "мука 2г", "text");
+User.setProperty("cena", "4000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"19"+"77" :
+case "19"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Чай 10г", "text");
+User.setProperty("cena", "3000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"20"+"77" :
+case "20"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Мука 0,75", "text");
+User.setProperty("cena", "1800", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"21"+"77" :
+case "21"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Крис 0,75", "text");
+User.setProperty("cena", "1900", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"23"+"77" :
+case "23"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "ТВ 3г", "text");
+User.setProperty("cena", "1300", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"24"+"77" :
+case "24"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "ТВ 2г", "text");
+User.setProperty("cena", "1000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"25"+"77" :
+case "25"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "меф 1г", "text");
+User.setProperty("cena", "2300", "text");
+Bot.runCommand("vbr");
+break;  
+case "/"+"10"+"37" :
+case "10"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Мука 0,5", "text");
+User.setProperty("cena", "1300", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"11"+"77" :
+case "11"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Крис 0,5", "text");
+User.setProperty("cena", "1400", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"12"+"77" :
+case "12"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Чай 5г", "text");
+User.setProperty("cena", "2000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"13"+"77" :
+case "13"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "чай 3г", "text");
+User.setProperty("cena", "1500", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"14"+"77" :
+case "14"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "мука 1г", "text");
+User.setProperty("cena", "2200", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"15"+"77" :
+case "15"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "крис 1г", "text");
+User.setProperty("cena", "2300", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"16"+"77" :
+case "16"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Меф 0,5г", "text");
+User.setProperty("cena", "1500", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"18"+"77" :
+case "18"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "мука 2г", "text");
+User.setProperty("cena", "4000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"19"+"77" :
+case "19"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Чай 10г", "text");
+User.setProperty("cena", "3000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"20"+"77" :
+case "20"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Мука 0,75", "text");
+User.setProperty("cena", "1800", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"21"+"77" :
+case "21"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "Крис 0,75", "text");
+User.setProperty("cena", "1900", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"23"+"77" :
+case "23"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "ТВ 3г", "text");
+User.setProperty("cena", "1300", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"24"+"77" :
+case "24"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "ТВ 2г", "text");
+User.setProperty("cena", "1000", "text");
+Bot.runCommand("vbr");
+break; 
+case "/"+"25"+"77" :
+case "25"+"77" :
+User.setProperty("citi", "Платнировская", "text");
+User.setProperty("tov", "меф 1г", "text");
+User.setProperty("cena", "2300", "text");
+Bot.runCommand("vbr");
 break;  
 case "прайс" :
 Bot.runCommand("/33");
