@@ -1,6 +1,6 @@
 {
   "bb_sync_version":"1.0",
-  "name":"Omstshopbot",
-  "git_remote":"git@github.com:astagorr/kran.git",
-  "csv_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQtupINgqPdDOBR0Ww33r5_quukjtbrwSyeEiPU6sHXZh-qErfZeOz14Y9xkyxhS80P2hbanXpGC1p1/pub?gid=0\u0026single=true\u0026output=csv"
+  "name":"",
+  "git_remote":"https://github.com/adtagorik/ran.git",
+  "csv_url":""
 }
