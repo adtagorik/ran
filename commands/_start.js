@@ -12,6 +12,6 @@
 Наш сайт - https://kaktus-bot.info
   ANSWER
   keyboard: Выбрать товар, \nПРАЙС, \nАКЦИИ, \nЛичный кабинет, \nВыход
-  aliases: старт, start, Ⓜ Главное меню
+  aliases: Ⓜ Главное меню
 CMD*/
 
